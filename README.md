@@ -1,6 +1,7 @@
 # react-async-context
 
 React application using Context API to process async actions without redux
+
 ## Available Scripts
 
 In the project directory, you can run:
