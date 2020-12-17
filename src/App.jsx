@@ -27,6 +27,7 @@ function App() {
             Down
           </button>
         </div>
+        {counter.isLoading && <p style={{ fontSize: 12, marginTop: 20 }}>is loading...</p>}
       </header>
     </div>
   );
