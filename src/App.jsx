@@ -2,10 +2,9 @@ import React, { useContext } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import { CounterContext } from './context';
-import { asyncIncrement, asyncDecrement, reset } from './actions';
 
 function App() {
-  const [counter, dispatch] = useContext(CounterContext);
+  const [counter, counterActions] = useContext(CounterContext);
 
   return (
     <div className="App">
@@ -17,13 +16,13 @@ function App() {
           {counter.count}
         </p>
         <div style={{ display: 'flex', flexDirection: 'row' }}>
-          <button type="button" onClick={() => asyncIncrement(dispatch, 500)}>
+          <button type="button" onClick={() => counterActions.asyncIncrement(500)}>
             Up
           </button>
-          <button type="button" onClick={() => reset(dispatch)} style={{ marginLeft: 20, marginRight: 20 }}>
+          <button type="button" onClick={() => counterActions.reset()} style={{ marginLeft: 20, marginRight: 20 }}>
             Reset
           </button>
-          <button type="button" onClick={() => asyncDecrement(dispatch)}>
+          <button type="button" onClick={() => counterActions.asyncDecrement()}>
             Down
           </button>
         </div>
