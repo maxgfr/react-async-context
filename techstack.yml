@@ -1,7 +1,8 @@
 repo_name: maxgfr/react-async-context
 report_id: 2f8cee213d4bd941fbf6f4a1921c063d
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T09:57:48+00:00'
+timestamp: '2024-01-05T08:56:49+00:00'
 requested_by: maxgfr
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/maxgfr/react-async-context
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/maxgfr/react-async-context
   detection_source: Repo Metadata
 - name: React
   description: A JavaScript library for building user interfaces
@@ -36,7 +39,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/maxgfr/react-async-context/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: maxgfr
   last_updated_on: 2020-12-17 22:34:15.000000000 Z
@@ -49,6 +52,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/maxgfr/react-async-context/blob/main/package.json
   detection_source: package.json
   last_updated_by: maxgfr
   last_updated_on: 2020-12-17 22:34:15.000000000 Z
@@ -60,6 +64,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/maxgfr/react-async-context
   detection_source: Repo Metadata
 - name: Prettier
   description: 'Prettier is an opinionated code formatter. '
@@ -71,7 +76,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/maxgfr/react-async-context/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: maxgfr
   last_updated_on: 2020-12-17 22:34:15.000000000 Z
@@ -83,6 +88,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/maxgfr/react-async-context/blob/main/yarn.lock
   detection_source: yarn.lock
   last_updated_by: maxgfr
   last_updated_on: 2020-12-17 22:34:15.000000000 Z
@@ -94,6 +100,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/maxgfr/react-async-context/blob/main/package.json
   detection_source: package.json
   last_updated_by: maxgfr
   last_updated_on: 2020-12-17 22:34:15.000000000 Z
@@ -107,7 +114,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/maxgfr/react-async-context/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: maxgfr
   last_updated_on: 2020-12-17 22:34:15.000000000 Z
@@ -122,7 +129,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/maxgfr/react-async-context/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: maxgfr
   last_updated_on: 2020-12-17 22:34:15.000000000 Z
@@ -136,7 +143,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15857/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/maxgfr/react-async-context/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: maxgfr
   last_updated_on: 2020-12-17 22:34:15.000000000 Z
@@ -150,7 +157,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/maxgfr/react-async-context/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: maxgfr
   last_updated_on: 2020-12-17 22:34:15.000000000 Z
@@ -164,7 +171,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/maxgfr/react-async-context/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: maxgfr
   last_updated_on: 2020-12-17 22:34:15.000000000 Z
@@ -178,7 +185,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/maxgfr/react-async-context/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: maxgfr
   last_updated_on: 2020-12-17 22:34:15.000000000 Z
@@ -192,7 +199,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/maxgfr/react-async-context/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: maxgfr
   last_updated_on: 2020-12-17 22:34:15.000000000 Z
@@ -206,7 +213,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/maxgfr/react-async-context/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: maxgfr
   last_updated_on: 2020-12-17 22:34:15.000000000 Z
@@ -220,7 +227,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/maxgfr/react-async-context/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: maxgfr
   last_updated_on: 2020-12-17 22:34:15.000000000 Z
@@ -234,7 +241,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/maxgfr/react-async-context/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: maxgfr
   last_updated_on: 2020-12-17 22:34:15.000000000 Z
@@ -248,7 +255,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/maxgfr/react-async-context/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: maxgfr
   last_updated_on: 2020-12-17 22:34:15.000000000 Z
