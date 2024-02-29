@@ -2,7 +2,7 @@ repo_name: maxgfr/react-async-context
 report_id: 2f8cee213d4bd941fbf6f4a1921c063d
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:56:49+00:00'
+timestamp: '2024-02-29T18:32:40+00:00'
 requested_by: maxgfr
 provider: github
 branch: main
@@ -67,7 +67,7 @@ tools:
   detection_source_url: https://github.com/maxgfr/react-async-context
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.2.1
   license: MIT
